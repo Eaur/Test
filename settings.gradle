@@ -1,2 +1,3 @@
+include ':dodjoy'
 include ':app'
 rootProject.name = "Test"
