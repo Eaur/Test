@@ -1,6 +1,8 @@
 package com.example.dod;
 
-public class DodTest {
+public class DodTest extends Test{
+
+    int num = 20;
     public int Sum(int num){
         return num + 100;
     }
